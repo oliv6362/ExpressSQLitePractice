@@ -3,7 +3,7 @@
 This project uses Node, npm, and a web framework called Express with database integration (SQLite). 
 It does not use Sequelize but there will be a repository with all this + Sequelize.
 
-After downloading the project do following
+After downloading and setting up the project do following
 - write in the terminal "npm start"
 - go into your localhost
 - write some random user data
